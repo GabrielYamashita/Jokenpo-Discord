@@ -1,1 +1,1 @@
-# Jokenpo-Discord
+# PedraPapelTesoura-Discord
