@@ -8,7 +8,7 @@ Algumas funções:
   - função clear (clear básico de 3 mesnagens, porém pode ser escolhido o número de mensagens)
   - checar latência/ping
    
--Eventos:
+- Eventos:
   - Checar comandos que não existem
   - Checar opções inválidas
   - Eventos de usuários entrando e saindo do servidor
