@@ -5,7 +5,7 @@ Um bot simples de Discord, para aprender e aplicar alguns conceitos aprendidos e
 Algumas funções:
 - Comandos:
   - Jogo: jokenpo
-  - Função clear (clear básico de 3 mesnagens, porém pode ser escolhido o número de mensagens)
+  - Função clear (clear básico de 3 mensagens, porém pode ser escolhido o número de mensagens)
   - Checar latência/ping
   - .help com lista de comandos possíveis
    
